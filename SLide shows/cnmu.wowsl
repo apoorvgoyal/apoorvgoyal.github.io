@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>5.0</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>false</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>CNMU</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/fresh/</ImageTemplate>
+            <ImageTemplateName>Fresh</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/Website/cnmu.html</PublishFileName>
+            <PublishIndex>cnmu.html</PublishIndex>
+            <PublishPath>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/Website</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>fresh</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/GSD/Semester 2/Thermoregulation Using Hybrid Materials/Assignmnets/Thermoregulation Using Hybrid Materials/Cement and Nylon/platform 6/jmartin_sc5.jpg</url>
+                <title>CNMU</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/GSD/Semester 2/Thermoregulation Using Hybrid Materials/Assignmnets/Thermoregulation Using Hybrid Materials/Cement and Nylon/platform 6/jmartin_sc1.jpg</url>
+                <title>CNMU</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/GSD/Semester 2/Thermoregulation Using Hybrid Materials/Assignmnets/Thermoregulation Using Hybrid Materials/Cement and Nylon/platform 6/jmartin_sc3.jpg</url>
+                <title>CNMU</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/GSD/Semester 2/Thermoregulation Using Hybrid Materials/Assignmnets/Thermoregulation Using Hybrid Materials/Cement and Nylon/platform 6/jmartin_sc4.jpg</url>
+                <title>CNMU</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/CPMU_Goyal-Martin-final Folder/Links/DSC01054.jpg</url>
+                <title>CNMU</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/CPMU_Goyal-Martin-final Folder/Links/DSC01038.JPG</url>
+                <title>CNMU</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/CPMU_Goyal-Martin-final Folder/Links/DSC01050.JPG</url>
+                <title>CNMU</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/CPMU_Goyal-Martin-final Folder/Links/03a.jpg</url>
+                <title>CNMU</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/CPMU_Goyal-Martin-final Folder/Links/02a.jpg</url>
+                <title>CNMU</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/CPMU_Goyal-Martin-final Folder/Links/delta t 20.jpg</url>
+                <title>CNMU</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

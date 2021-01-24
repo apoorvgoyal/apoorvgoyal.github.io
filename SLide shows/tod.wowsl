@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>5.0</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>false</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>tod</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/fresh/</ImageTemplate>
+            <ImageTemplateName>Fresh</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/Website/TOD.html</PublishFileName>
+            <PublishIndex>TOD.html</PublishIndex>
+            <PublishPath>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/Website</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>fresh</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/EDS/KKD/Report for DDA/08082013/h1.jpg</url>
+                <title>h1</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/EDS/KKD/Report for DDA/08082013/d.jpg</url>
+                <title>d</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/EDS/KKD/Report for DDA/08082013/a.jpg</url>
+                <title>a</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/EDS/KKD/Report for DDA/08082013/plan.jpg</url>
+                <title>plan</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/EDS/KKD/Report for DDA/Radiation.jpg</url>
+                <title>Radiation</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/EDS/KKD/Report for DDA/Rotationc.jpg</url>
+                <title>Rotationc</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/EDS/KKD/Report for DDA/Rotationb.jpg</url>
+                <title>Rotationb</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/EDS/KKD/Report for DDA/Rotationa.jpg</url>
+                <title>Rotationa</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>5.0</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>false</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>High Performance Buildings</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/fresh/</ImageTemplate>
+            <ImageTemplateName>Fresh</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/Website/kargyak.html</PublishFileName>
+            <PublishIndex>kargyak.html</PublishIndex>
+            <PublishPath>C:/Users/apoorvoyal/Apoorv- Work/Apoorv_Work/Website</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>fresh</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/56.JPG</url>
+                <title>KARGYAK</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/46.JPG</url>
+                <title>KARGYAK</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/49.JPG</url>
+                <title>KARGYAK</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/54.JPG</url>
+                <title>KARGYAK</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/55.JPG</url>
+                <title>KARGYAK</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/38d.jpg</url>
+                <title>KARGYAK</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/40.jpg</url>
+                <title>KARGYAK</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/41.jpg</url>
+                <title>KARGYAK</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/42.jpg</url>
+                <title>KARGYAK</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/43.jpg</url>
+                <title>KARGYAK</title>
+            </Image>
+            <Image>
+                <url>C:/Users/apoorvoyal/Dropbox/Portfolio/Final/Links/44.jpg</url>
+                <title>KARGYAK</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
